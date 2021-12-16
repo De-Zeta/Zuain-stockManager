@@ -1,7 +1,10 @@
+import NavBar from "./components/navBar"
+
 const App = () => {
+  
   return (
     <>
-      H
+      <NavBar/>
     </>
   )
 }
